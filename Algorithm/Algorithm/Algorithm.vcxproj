@@ -138,7 +138,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1003.cpp" />
     <ClCompile Include="1463.cpp" />
+    <ClCompile Include="2579.cpp" />
     <ClCompile Include="9095.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
