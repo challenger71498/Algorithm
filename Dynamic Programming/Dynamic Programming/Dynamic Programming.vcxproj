@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{FC97641C-FF9F-4E2D-AC67-E9D7E4D24F18}</ProjectGuid>
-    <RootNamespace>Algorithm</RootNamespace>
+    <ProjectGuid>{E8C1B8DA-16E7-4BA1-AADB-7FD0A48FA0A3}</ProjectGuid>
+    <RootNamespace>DynamicProgramming</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,6 +142,7 @@
     <ClCompile Include="1149.cpp" />
     <ClCompile Include="11726.cpp" />
     <ClCompile Include="1463.cpp" />
+    <ClCompile Include="1932.cpp" />
     <ClCompile Include="2193.cpp" />
     <ClCompile Include="2579.cpp" />
     <ClCompile Include="9095.cpp" />
