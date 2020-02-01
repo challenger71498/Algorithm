@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F9CC7B76-7440-4B7A-85A6-CA60CE7B1A83}</ProjectGuid>
-    <RootNamespace>Implementation</RootNamespace>
+    <ProjectGuid>{3AB69C1E-6B86-413B-B34D-4C5CA03A83DF}</ProjectGuid>
+    <RootNamespace>Backtracking</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -118,11 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="15649.cpp" />
-    <ClCompile Include="1722.cpp" />
-    <ClCompile Include="1929.cpp" />
-    <ClCompile Include="4948.cpp" />
-    <ClCompile Include="5567.cpp" />
+    <ClCompile Include="6603.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

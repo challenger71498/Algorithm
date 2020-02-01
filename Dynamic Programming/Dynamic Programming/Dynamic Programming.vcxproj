@@ -154,10 +154,14 @@
     <ClCompile Include="2163.cpp" />
     <ClCompile Include="2167.cpp" />
     <ClCompile Include="2193.cpp" />
+    <ClCompile Include="2294.cpp" />
     <ClCompile Include="2579.cpp" />
     <ClCompile Include="9095.cpp" />
     <ClCompile Include="9461.cpp" />
     <ClCompile Include="9465.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
