@@ -45,5 +45,7 @@ int main() {
 
 	track(0);
 
+	string s;
+
 	cout << best << '\n';
 }
